@@ -52,6 +52,9 @@ Tg-канал: [@way_of_the_Mysie](https://t.me/way_of_the_Mysie)
 
 **Пример готового приложения:**
 
+<img src="https://github.com/user-attachments/assets/589af0b2-bd88-4757-b5a3-9bec6bc5acba" alt="Главные экран" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/5899c927-430e-4e84-a93a-5550a4991077" alt="Экран настроек" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/7f50522b-7c88-438e-bf20-c3ea8b43e6bf" alt="Экран детальной информации" width="300" height="600">
 
 </details>  
 
